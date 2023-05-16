@@ -1,0 +1,21 @@
+.user-form {
+  width: 480px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+.user-form label {
+  font-weight: bold;
+}
+.user-form input {
+  padding: 0.3rem;
+}
+
+.btn {
+  background-color: purple;
+  color: white;
+  font-weight: bold;
+  padding: 0.4rem 1rem;
+  max-width: max-content;
+  border: none;
+}

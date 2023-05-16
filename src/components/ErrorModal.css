@@ -1,0 +1,23 @@
+.modal-card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  padding: 0;
+}
+
+.modal-header {
+  background-color: blueviolet;
+  color: white;
+  font-weight: bold;
+  padding: 2rem;
+  border-radius: 12px 12px 0 0;
+}
+.modal-main {
+  background-color: lavender;
+  font-size: 1.2rem;
+  color: darkmagenta;
+  padding: 4rem 2rem;
+  border-radius: 0 0 12px 12px;
+}
